@@ -49,4 +49,4 @@ python3 fasthod_fitting.py 8
 python3 fasthod_fitting.py 9
 python3 fasthod_fitting.py 10
 
-
+python3 ../../../get_best_HOD_params.py
